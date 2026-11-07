@@ -58,7 +58,7 @@ CPU and motherboard temperatures come from [LibreHardwareMonitor](https://github
 
 ## Licence
 
-Add your licence here (for example MIT) and put a `LICENSE` file in the repository.
+MIT License
 
 ## Version history
 
