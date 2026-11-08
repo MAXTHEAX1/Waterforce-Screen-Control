@@ -67,7 +67,7 @@ CPU and motherboard temperatures come from [LibreHardwareMonitor](https://github
 - **Taskbar icon looks blurry.** Fixed in 1.2.1. If it persists, unpin and re-pin the shortcut.
 - **Logs** are in `%APPDATA%\WaterforceScreenControl\` (`aorus_lcd.log`).
 
-##Installing your own build (Requires Python 3.12)
+## Installing your own build (Requires Python 3.12)
 
 https://github.com/user-attachments/assets/340dc1c0-955a-429e-804e-5d8eb8a76357
 
