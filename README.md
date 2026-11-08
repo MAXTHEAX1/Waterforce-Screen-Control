@@ -67,7 +67,9 @@ CPU and motherboard temperatures come from [LibreHardwareMonitor](https://github
 - **Logs** are in `%APPDATA%\WaterforceScreenControl\` (`aorus_lcd.log`).
 
 ##Installing your own build (Requires Python 3.12)
-<p align="center"><img src="https://raw.githubusercontent.com/MAXTHEAX1/Waterforce-Screen-Control/refs/heads/main/icon.ico?token=GHSAT0AAAAAAEPA5UEPCYZWQK35T6OX6LNU2XP5URA" height="250"></p>
+
+<p align="center"><p align="center"><img src="https://github.com/user-attachments/assets/340dc1c0-955a-429e-804e-5d8eb8a76357" height="250"></p>
+
 ## Credits and licences
 
 - [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) (MPL-2.0) and [PawnIO](https://github.com/namazso/PawnIO) are downloaded by the optional setup, not bundled.
