@@ -1,3 +1,6 @@
+<p align="center"><img src="https://raw.githubusercontent.com/MAXTHEAX1/Waterforce-Screen-Control/refs/heads/main/icon.ico?token=GHSAT0AAAAAAEPA5UEPCYZWQK35T6OX6LNU2XP5URA" height="250"></p>
+
+
 # Waterforce Screen Control
 
 A small, free Windows app that controls the LCD screen on the **Gigabyte AORUS WATERFORCE X 360** liquid cooler, so you don't need Gigabyte Control Center (GCC) running.
