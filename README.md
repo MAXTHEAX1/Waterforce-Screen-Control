@@ -1,5 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/MAXTHEAX1/Waterforce-Screen-Control/refs/heads/main/icon.ico?token=GHSAT0AAAAAAEPA5UEPCYZWQK35T6OX6LNU2XP5URA" height="250"></p>
 
+Scroll down for the installation video
 
 # Waterforce Screen Control
 
@@ -54,6 +55,8 @@ CPU and motherboard temperatures come from [LibreHardwareMonitor](https://github
 - **Taskbar icon looks blurry.** Fixed in 1.2.1. If it persists, unpin and re-pin the shortcut.
 - **Logs** are in `%APPDATA%\WaterforceScreenControl\` (`aorus_lcd.log`).
 
+##Installing your own build (Requires Python 3.12)
+<p align="center"><img src="https://raw.githubusercontent.com/MAXTHEAX1/Waterforce-Screen-Control/refs/heads/main/icon.ico?token=GHSAT0AAAAAAEPA5UEPCYZWQK35T6OX6LNU2XP5URA" height="250"></p>
 ## Credits and licences
 
 - [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) (MPL-2.0) and [PawnIO](https://github.com/namazso/PawnIO) are downloaded by the optional setup, not bundled.
