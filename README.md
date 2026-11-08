@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/340dc1c0-955a-429e-804e-5d8eb8a76357
+
 
 Scroll down for the installation video
 
@@ -68,7 +68,7 @@ CPU and motherboard temperatures come from [LibreHardwareMonitor](https://github
 
 ##Installing your own build (Requires Python 3.12)
 
-<p align="center"><p align="center"><img src="https://github.com/user-attachments/assets/340dc1c0-955a-429e-804e-5d8eb8a76357" height="250"></p>
+https://github.com/user-attachments/assets/340dc1c0-955a-429e-804e-5d8eb8a76357
 
 ## Credits and licences
 
