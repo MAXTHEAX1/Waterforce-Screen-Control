@@ -20,13 +20,17 @@ A small, free Windows app that controls the LCD screen on the **Gigabyte AORUS W
 
 The app works by talking to the cooler over USB (device `1044:7A4D`). Its window is a small web page that only your own PC can reach (`127.0.0.1`), shown in an app-style Edge/Chrome window. Nothing is sent to the internet, except downloads you start yourself (LibreHardwareMonitor setup).
 
-<p align="center"><img src="https://raw.githubusercontent.com/MAXTHEAX1/Waterforce-Screen-Control/refs/heads/main/DashScreenshot.png?token=GHSAT0AAAAAAEPA5UEOZ7D5EGMFHVWQI6OY2XP57PQ" height="500"></p>
+<p align="center"><img width="1770" height="1170" alt="c75254ea-aa5d-48af-a359-52b750988fcc" src="https://github.com/user-attachments/assets/e39eefb3-6886-42a0-8161-65a9a9f960d3" />
 
-<p align="center"><img src="https://raw.githubusercontent.com/MAXTHEAX1/Waterforce-Screen-Control/refs/heads/main/ScreensScreenshot.png?token=GHSAT0AAAAAAEPA5UEOMXVR6JPQ4EUXY3OC2XP577Q" height="500"></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/MAXTHEAX1/Waterforce-Screen-Control/refs/heads/main/TextScreenshot.png?token=GHSAT0AAAAAAEPA5UEPGV4MFWFW5G4QO67U2XP6A5Q" height="500"></p>
+<p align="center"><img width="1770" height="1170" alt="8711b253-8157-4f62-bca1-b2a9a7150690" src="https://github.com/user-attachments/assets/a6bfacfa-13b9-45bc-8f2c-1911dcc654c5" />
 
-<p align="center"><img src="https://raw.githubusercontent.com/MAXTHEAX1/Waterforce-Screen-Control/refs/heads/main/Settings%20screenshot.png?token=GHSAT0AAAAAAEPA5UEPS46VGJKKP6K53LB42XP6BDA" height="500"></p>
+
+<p align="center"><img width="1770" height="1170" alt="d572d639-82fc-470f-82af-c23bc3fb3b80" src="https://github.com/user-attachments/assets/d057d7d9-611f-4249-bc45-111e346a1f53" />
+
+
+<p align="center"><img width="1770" height="1170" alt="212e17fb-74f6-4d2e-bd03-6102d23cc2af" src="https://github.com/user-attachments/assets/a8061713-9660-423a-a936-49429f212f14" />
+
 
 ## Requirements
 - Windows 10 or 11
