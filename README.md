@@ -1,4 +1,4 @@
-<img width="256" height="256" alt="38ee8e6e-427d-4217-b053-23f6aa198bcd" src="https://github.com/user-attachments/assets/474ed9bf-a6b3-48df-a679-dcb4947d348d" />
+<p align="center"><img width="256" height="256" alt="38ee8e6e-427d-4217-b053-23f6aa198bcd" src="https://github.com/user-attachments/assets/474ed9bf-a6b3-48df-a679-dcb4947d348d" />
 
 Scroll down for the installation video
 
