@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/MAXTHEAX1/Waterforce-Screen-Control/refs/heads/main/icon.ico?token=GHSAT0AAAAAAEPA5UEOKNPQQYJI6GUSGW4M2XP6BWQ" height="250"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/MAXTHEAX1/Waterforce-Screen-Control/refs/heads/main/icon.ico?token=GHSAT0AAAAAAEPA5UEOBNHR3WKDQAJIVPTI2XP6LRA" height="250"></p>
 
 Scroll down for the installation video
 
