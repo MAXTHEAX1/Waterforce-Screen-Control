@@ -42,7 +42,7 @@ The app works by talking to the cooler over USB (device `1044:7A4D`). Its window
 ## Install
 https://github.com/user-attachments/assets/340dc1c0-955a-429e-804e-5d8eb8a76357
 
-##Basic .EXE install
+## Basic .EXE install
 1. Download the latest release
 2. Unzip to your desired location
 3. Double-click the .EXE file and run anyway
