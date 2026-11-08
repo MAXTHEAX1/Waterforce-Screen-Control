@@ -39,20 +39,26 @@ The app works by talking to the cooler over USB (device `1044:7A4D`). Its window
 - A Gigabyte AORUS WATERFORCE X 360 (LCD version)
 - Close or uninstall Gigabyte Control Center first. Two programs can't control the screen at the same time.
 
-## Install (easiest)
+## Install
+https://github.com/user-attachments/assets/340dc1c0-955a-429e-804e-5d8eb8a76357
 
-1. Go to the **Releases** page of this repository and download `WaterforceScreenControl.exe`.
-2. Put it in a permanent folder, for example `C:\Tools\WaterforceScreenControl\`.
-3. Double-click it. Windows SmartScreen may warn about an unknown publisher (see *Troubleshooting*).
-4. In **Settings**, turn on **Start with Windows** if you want it to start by itself.
+##Basic .EXE install
+1. Download the latest release
+2. Unzip to your desired location
+3. Double-click the .EXE file and run anyway
+4. Click install for LibreHardwareMonitor
+5. In **Settings**, turn on **Start with Windows** if you want it to start by itself.
 
 ## Build it yourself
 
 You need Windows and [Python 3.12](https://www.python.org/downloads/) (tick "Add python.exe to PATH" / install the `py` launcher).
 
-1. Download or clone this repository into a folder.
-2. Double-click **`build.bat`**. It installs what it needs and builds the program (a minute or two).
-3. Your program is at `dist\WaterforceScreenControl.exe`.
+1. Download the latest release
+2. Unzip to your desired location
+3. Double-click **`build.bat`**. It installs what it needs and builds the program (a minute or two).
+4. Your program is at `dist\WaterforceScreenControl.exe`.
+5. Open the App and click Install for LibreHardwareMonitor
+6. In **Settings**, turn on **Start with Windows** if you want it to start by itself.
 
 Files: `aorus_lcd.py` (the cooler engine and command-line tool), `aorus_lcd_app.py` (the app), `aorus_ui.py` (the window's page), `wsc_logo.py` + `icon.ico` (logo), `build.bat`.
 
@@ -66,10 +72,6 @@ CPU and motherboard temperatures come from [LibreHardwareMonitor](https://github
 - **The screen doesn't respond.** Quit Gigabyte Control Center completely (including its tray icon), then restart this app.
 - **Taskbar icon looks blurry.** Fixed in 1.2.1. If it persists, unpin and re-pin the shortcut.
 - **Logs** are in `%APPDATA%\WaterforceScreenControl\` (`aorus_lcd.log`).
-
-## Installing your own build (Requires Python 3.12)
-
-https://github.com/user-attachments/assets/340dc1c0-955a-429e-804e-5d8eb8a76357
 
 ## Credits and licences
 
