@@ -1,3 +1,4 @@
+<p align="center"><img width="256" height="256" alt="33cd63ed-8e0c-4a2e-9218-dab0cea994a4" src="https://github.com/user-attachments/assets/57e19cd9-7960-4b81-88d8-8e3f49e11f2e" />
 
 
 Scroll down for the installation video
