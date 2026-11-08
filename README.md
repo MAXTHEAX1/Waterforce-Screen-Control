@@ -20,13 +20,13 @@ A small, free Windows app that controls the LCD screen on the **Gigabyte AORUS W
 
 The app works by talking to the cooler over USB (device `1044:7A4D`). Its window is a small web page that only your own PC can reach (`127.0.0.1`), shown in an app-style Edge/Chrome window. Nothing is sent to the internet, except downloads you start yourself (LibreHardwareMonitor setup).
 
-<p align="center"><img src="https://raw.githubusercontent.com/MAXTHEAX1/Waterforce-Screen-Control/refs/heads/main/DashScreenshot.png?token=GHSAT0AAAAAAEPA5UEOZ7D5EGMFHVWQI6OY2XP57PQ" height="250"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/MAXTHEAX1/Waterforce-Screen-Control/refs/heads/main/DashScreenshot.png?token=GHSAT0AAAAAAEPA5UEOZ7D5EGMFHVWQI6OY2XP57PQ" height="500"></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/MAXTHEAX1/Waterforce-Screen-Control/refs/heads/main/ScreensScreenshot.png?token=GHSAT0AAAAAAEPA5UEOMXVR6JPQ4EUXY3OC2XP577Q" height="250"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/MAXTHEAX1/Waterforce-Screen-Control/refs/heads/main/ScreensScreenshot.png?token=GHSAT0AAAAAAEPA5UEOMXVR6JPQ4EUXY3OC2XP577Q" height="500"></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/MAXTHEAX1/Waterforce-Screen-Control/refs/heads/main/TextScreenshot.png?token=GHSAT0AAAAAAEPA5UEPGV4MFWFW5G4QO67U2XP6A5Q" height="250"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/MAXTHEAX1/Waterforce-Screen-Control/refs/heads/main/TextScreenshot.png?token=GHSAT0AAAAAAEPA5UEPGV4MFWFW5G4QO67U2XP6A5Q" height="500"></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/MAXTHEAX1/Waterforce-Screen-Control/refs/heads/main/Settings%20screenshot.png?token=GHSAT0AAAAAAEPA5UEPS46VGJKKP6K53LB42XP6BDA" height="250"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/MAXTHEAX1/Waterforce-Screen-Control/refs/heads/main/Settings%20screenshot.png?token=GHSAT0AAAAAAEPA5UEPS46VGJKKP6K53LB42XP6BDA" height="500"></p>
 
 ## Requirements
 - Windows 10 or 11
