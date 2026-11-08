@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/MAXTHEAX1/Waterforce-Screen-Control/refs/heads/main/icon.ico?token=GHSAT0AAAAAAEPA5UEOBNHR3WKDQAJIVPTI2XP6LRA" height="250"></p>
+<img width="256" height="256" alt="38ee8e6e-427d-4217-b053-23f6aa198bcd" src="https://github.com/user-attachments/assets/474ed9bf-a6b3-48df-a679-dcb4947d348d" />
 
 Scroll down for the installation video
 
